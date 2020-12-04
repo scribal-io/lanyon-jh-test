@@ -3,18 +3,6 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
 
 ## Scribal
 
@@ -24,10 +12,13 @@ Digital transformation isn’t just meant to be undergone.  It’s supposed to s
 
 ## Our Philosophy
 
-innovation as a social process...works better through an on-going conversation about constraints and possibilities...
+innovation as a social process...that is up against the status quo.
+
 the cloud as a new way to access and utilize resources of all kinds...
+
 data as an asset with latent value... which needs to be 'liberated' in order to be useful...
-boundaries force constraints that need to be remedied....
+
+traditional organization boundaries act as constraints....
 
 (some basic ideas that could be in the form of blog entries instead.)
 

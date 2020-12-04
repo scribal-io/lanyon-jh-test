@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: First thoughts
 ---
-
-Gregory is an unassuming [Jekyll](http://jekyllrb.com) person that places content first by tucking away navigation in a hidden drawer. 
 
 
 ### What We Do
@@ -11,13 +9,11 @@ Gregory is an unassuming [Jekyll](http://jekyllrb.com) person that places conten
 We can help you with:
 
 * Data utilization
-* Leveraging community developments to support your business
+* Leveraging open source communities to support your innovation goals
 * Co-development programs
+* B2B subscription & revenue management programs
 
 
-### What We Say
-
-Scribal is dedicated to helping people solve the most pressing problems they face in the workplace.  Every day.  And all through the night.
 
 ### More
 
