@@ -16,14 +16,19 @@ There are currently two themes built on Poole:
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+## Scribal
 
-Some fun facts about the setup of this project include:
+Move faster, create new value, challenge established ways of working.  You need to innovate.  Let’s face it: It is not easy to evolve a digital-first business.  But at the same time it’s not exactly optional, is it?
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+Digital transformation isn’t just meant to be undergone.  It’s supposed to speed things up, create new value, and push a growth agenda by leveraging advanced software technologies in the cloud. We’re Scribal and we’re here to help you move forward through change.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## Our Philosophy
 
-Thanks for reading!
+innovation as a social process...works better through an on-going conversation about constraints and possibilities...
+the cloud as a new way to access and utilize resources of all kinds...
+data as an asset with latent value... which needs to be 'liberated' in order to be useful...
+boundaries force constraints that need to be remedied....
+
+(some basic ideas that could be in the form of blog entries instead.)
+
+##   
