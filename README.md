@@ -1,4 +1,35 @@
+<<<<<<< Updated upstream
 # Test
+=======
+# Scribal Website/Blog
+
+The Scribal website is based on the Lanyon Jekyll theme and hosted at Github Pages (GHP). Jekyll is an open-source Ruby-based static website generator. It is well integrated with Github and is probably the easiest way to get a DIY website up and running quickly.
+
+One tricky aspect of GHP is deploying a custom Jekyll theme if you want to use somethng other than themes directly integrated by Github. We opted for Lanyon because of its clean design, because it integrates a side-drawer which enables us to display basic "About" and "Contact" info for our company, and because Lanyon itself has options which let the user modify the look and feel.
+
+In addition to replicating the [Lanyon](Lanyon) readme (below), this file documents  modifications specific to deploying on Git and to our use of Lanyon and GHP here at Scribal.
+
+## Deployment on Github Pages
+
+The way that Github Pages works is that Github recognizes any directory that has the Jekyll file structure and with a one-click configuration in settings builds and deploys to a public URL. This works easily if you use the default theme (Minima) or one of a small handful of addtional themes offered in a repository's settings. However, if you want to use any other custom theme (and there are dozens available) deploying it properly can be difficult, despite the efforts of the theme designers. 
+
+Lanyon contains a fair amount of CSS so getting the settings for relative/absolute links is important. It's not enough to run Lanyon on a locally-hosted Jekyll instance because the [Github production version of Jekyll and related ruby gems](https://pages.github.com/versions/) may be different than what you are running locally. It's worth checking the linked page if you run into difficulties.
+
+The most important thing for getting Lanyon to run properly on GHP are the links in the .'config_yml' file in the repo's home directory. There is an important distinction to make between sites that use a custom URL and those which use the default GHP URLs:
+- if using a custom URL copy it into the URL slot in "Setup" and leave the 'baseurl' slot blank. You also have to create a CNAME file in the home directory which contains text pointing to your CNAME info. [Full documentation on how to configure this can be found here](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site).
+- if you are using the GHP default URL, the 'url' slot should be left blank and there shouldn't be any 'CNAME' file in the home directory. Instead, the 'baseurl' slot should be filled in with the name of the repo in Unix directory style (for this site it is - '/lanyon-jh-test/'). It took a lot of trial and error to get this to run correctly.
+
+Here are some helpful documentation resources for deploying a Lanyon site:
+- [Building your own Personal Website in Jekyll](https://chrisschuld.com/2019/02/building-your-own-website-in-jekyll/)
+- [How to set up lanyon-plus jekyll theme](https://davidbarber.github.io/readme/)
+
+
+## Blogging Workflow
+
+When Github pages detects changes in your repo, those changes are automatically deployed to the web. When multiple users have commit permission to the repo, there is always the possiblity of conflicting changes. Some rules of thumb to minimize the chances that this will cause problems either with a user's local copy of the repo or (less likely, but more disastrously) with the deployed site:
+- Make sure to pull an up-to-date version of the repo before starting to make changes. The Git command that makes this easiest is 'git pull -- rebase' - for more complete explanation of how to use git to sync changes and updates [this blog post is helpful](https://supercollider.github.io/development/git-cheat-sheet).
+- If we reach a point where there are multiple contributors to the site, one way to manage it is to designate a 'webmaster' with control over the repo and make everyone else fork the repo and have them submit pull requests in order for a post to appear on the production site.
+>>>>>>> Stashed changes
 
 # Lanyon
 
