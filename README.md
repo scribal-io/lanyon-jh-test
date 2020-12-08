@@ -2,7 +2,7 @@
 
 The Scribal website is based on the Lanyon Jekyll theme and hosted at Github Pages (GHP). Jekyll is an open-source Ruby-based static website generator. It is well integrated with Github and is probably the easiest way to get a DIY website up and running quickly.
 
-One tricky aspect of GHP is deploying a custom Jekyll theme if you want to use somethng other than themes directly integrated by Github. We opted for Lanyon because of its clean design, because it integrates a side-drawer which enables us to display basic "About" and "Contact" info for our company, and because Lanyon itself has options which let the user modify the look and feel.
+One tricky aspect of GHP is deploying a custom Jekyll theme if you want to use something other than themes directly integrated by Github. We opted for Lanyon because of its clean design, because it integrates a side-drawer which enables us to display basic "About" and "Contact" info for our company, and because Lanyon itself has options which let the user modify the look and feel.
 
 In addition to replicating the [Lanyon](Lanyon) readme (below), this file documents  modifications specific to deploying on Git and to our use of Lanyon and GHP here at Scribal.
 
@@ -26,7 +26,6 @@ Here are some helpful documentation resources for deploying a Lanyon site:
 When Github pages detects changes in your repo, those changes are automatically deployed to the web. When multiple users have commit permission to the repo, there is always the possiblity of conflicting changes. Some rules of thumb to minimize the chances that this will cause problems either with a user's local copy of the repo or (less likely, but more disastrously) with the deployed site:
 - Make sure to pull an up-to-date version of the repo before starting to make changes. The Git command that makes this easiest is 'git pull -- rebase' - for more complete explanation of how to use git to sync changes and updates [this blog post is helpful](https://supercollider.github.io/development/git-cheat-sheet).
 - If we reach a point where there are multiple contributors to the site, one way to manage it is to designate a 'webmaster' with control over the repo and make everyone else fork the repo and have them submit pull requests in order for a post to appear on the production site.
->>>>>>> Stashed changes
 
 # Lanyon
 
