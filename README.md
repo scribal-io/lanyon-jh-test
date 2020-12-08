@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# Test
-=======
 # Scribal Website/Blog
 
 The Scribal website is based on the Lanyon Jekyll theme and hosted at Github Pages (GHP). Jekyll is an open-source Ruby-based static website generator. It is well integrated with Github and is probably the easiest way to get a DIY website up and running quickly.
