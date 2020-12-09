@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: Thoughts on the Slack Acquisition
 ---
 
 It’s been a few days since Salesforce announced its intention to buy Slack, giving us time to reflect on what it means for the enterprise tech landscape.   The arrangement works out to a 55% premium over the existing share price.  At $27.7B, is the biggest deal of its kind since IBM’s purchase of Red Hat and one of the biggest software acquisitions ever.   All said, the acquisition is a show of confidence in Slack’s product, its progress to date, and foretells of a powerful new alignment. 
