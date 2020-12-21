@@ -22,4 +22,4 @@ We help our clients to:
 - Understand the software that has emerged in recent years to help *manage data-intensive applications* and harness relevant parts of it to your benefit.
 - *Align IT and business organizations* in order to optimize for quick prototyping, rapid ideation and other practices dervived from innovative, agile Silicon Valley software development.
 
-Have questions or want to talk? [Please contact us.]({% link contact.md %})
+Have questions or want to talk? [Please contact us.](contact.md)
