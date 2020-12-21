@@ -19,7 +19,7 @@ In our many years working in Silicon Valley and elsewhere, we have seen time and
 We help our clients to:
 - Analyze and *solve their own technology problems* rather than relying on pre-baked "solutions"
 - Identify tech components that are reusable for different purposes. Often, though not always, this leads us to select *open source software* as building blocks rather than getting locked into expensive proprietary software.
-- Understand the software that has emerged in recent years to help manage data-intensive applications and harness relevant parts of it to your benefit.
-- Align IT and business organizations in order to optimize for quick prototyping, rapid ideation and other practices dervived from innovative, agile Silicon Valley software development.
+- Understand the software that has emerged in recent years to help *manage data-intensive applications* and harness relevant parts of it to your benefit.
+- *Align IT and business organizations* in order to optimize for quick prototyping, rapid ideation and other practices dervived from innovative, agile Silicon Valley software development.
 
 Have questions or want to talk? Please contact us.
