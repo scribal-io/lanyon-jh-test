@@ -22,10 +22,10 @@ We help our clients to:
 - Understand the software that has emerged in recent years to help *manage data-intensive applications* and harness relevant parts of it to your benefit.
 - *Align IT and business organizations* in order to optimize for quick prototyping, rapid ideation and other practices dervived from innovative, agile Silicon Valley software development.
 
-Have questions or want to talk? [Please contact us.](contact.md)
+Have questions or want to talk? [Please contact us.]({{ site.baseurl }}{% link contact.md %})
 
-[Test](readme.html)
+[Test 404 Error](readme.html)
 
-[PostLink]({{ site.baseurl }}{% post_url 2020-12-07-salesforce-slack %})
+[Test Post Link]({{ site.baseurl }}{% post_url 2020-12-07-salesforce-slack %})
 
-[PageLink]({{ site.baseurl }}{% link contact.md %})
+[Test Page Link]({{ site.baseurl }}{% link contact.md %})
