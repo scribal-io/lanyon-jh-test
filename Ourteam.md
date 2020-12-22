@@ -9,4 +9,4 @@ Business decision-making tends to be slow. But today's competitive environment d
 
 ## Jason Horowitz
 
-As a technology leader, I have built winning global teams in leading organizations that  rapidly developed game-changing technology products. Early in my career, I was a US Foreign Service officer serving in emerging markets, so I bring (literally) a "diplomatic approach" to companies undergoing digital transformation  Here's my complete [professional profile](https://www.linkedin.com/in/jasonhhorowitz).
+As a technology leader, I have built winning global teams in leading organizations that  rapidly developed game-changing technology products. Early in my career, I was a US Foreign Service officer serving in emerging markets, so I bring, literally, a "diplomatic approach" to companies undergoing digital transformation. Here's my complete [professional profile](https://www.linkedin.com/in/jasonhhorowitz).
