@@ -23,3 +23,9 @@ We help our clients to:
 - *Align IT and business organizations* in order to optimize for quick prototyping, rapid ideation and other practices dervived from innovative, agile Silicon Valley software development.
 
 Have questions or want to talk? [Please contact us.](contact.md)
+
+[Test](readme.html)
+
+[PostLink]({{ site.baseurl }}{% post_url 2020-12-07-salesforce-slack %})
+
+[PageLink]({{ site.baseurl }}{% link contact.md %})
