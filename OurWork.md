@@ -17,10 +17,10 @@ Digital transformation has been a trend for many years and has recently accelera
 In our many years working in Silicon Valley and elsewhere, we have seen time and again that companies which position themselves on the forward edge of emerging trends can get and maintain a strong competitive advantage in their market segment. Scribal exists to help you sharpen your digital edge.
 
 We help our clients to:
-- Analyze and *solve their own technology problems* rather than relying on pre-baked "solutions"
-- Identify tech components that are reusable for different purposes. Often, though not always, this leads us to select *open source software* as building blocks rather than getting locked into expensive proprietary software.
-- Understand the software that has emerged in recent years to help *manage data-intensive applications* and harness relevant parts of it to your benefit.
-- *Align IT and business organizations* in order to optimize for quick prototyping, rapid ideation and other practices dervived from innovative, agile Silicon Valley software development.
+- Analyze and *solve your own technology problems* rather than relying on pre-baked "solutions"
+- Leverage *open source software* and techniques to maximize the impact of technology investments.
+- Understand emerging trends in software and data technologies that can yield significant benefits from uptake.
+- *Align IT and business organizations* in order to optimize for quick prototyping, rapid ideation and other practices employed by leading-edge technology companies.
 
 Have questions or want to talk? [Please contact us.]({{ site.baseurl }}{% link contact.md %})
 
