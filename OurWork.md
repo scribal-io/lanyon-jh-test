@@ -23,9 +23,3 @@ We help our clients to:
 - *Align IT and business organizations* in order to optimize for quick prototyping, rapid ideation and other practices employed by leading-edge technology companies.
 
 Have questions or want to talk? [Please contact us.]({{ site.baseurl }}{% link contact.md %})
-
-[Test 404 Error](readme.html)
-
-[Test Post Link]({{ site.baseurl }}{% post_url 2020-12-07-salesforce-slack %})
-
-[Test Page Link]({{ site.baseurl }}{% link contact.md %})
