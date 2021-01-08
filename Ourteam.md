@@ -5,7 +5,9 @@ title: Our Team
 
 ## Gregory Comlish
 
-Business decision-making tends to be slow. But today's competitive environment doesn't wait around. I design innovation programs & practices to bridge this gap so that companies can thrive through change.  You can see [more about me here](https://www.linkedin.com/in/gregory-comlish-aba3442).
+My background combines emerging markets, globalization, and enterprise technology.  I have led Product and Product Strategy teams at Oracle, Intuit and several enterprise cloud startups and my products are used daily across an assortment of global 100 firms.  I am a CPA. 
+
+You can see [more about me here](https://www.linkedin.com/in/gregory-comlish-aba3442).
 
 ## Jason Horowitz
 
