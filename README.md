@@ -16,7 +16,7 @@ There are a couple of particularly tricky aspects to publishing (and modifying L
 
  ### 1. Install the gh-pages gem in the project directory on your local machine
 
-Do this ASAP - it installs in your local environment all the Ruby/Jekyll dependencies that are used by Github to deploy GHP. It's desirable to be able to review changes to your site locally before pushing to Github because GHP deploys those changes automatically.The current versions of Jekyll-related packages are listed on [this page](https://pages.github.com/versions/). The gh-pages gem also installs gems such as jekyll-sitemap which improves SEO. What you need to do is described  in [this blog post](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_publishing_github_pages.html).
+Do this ASAP - it installs in your local environment all the Ruby/Jekyll dependencies that are used by Github to deploy GHP. It's desirable to be able to review changes to your site locally before pushing to Github because GHP deploys those changes automatically. The current versions of Jekyll-related packages are listed on [this page](https://pages.github.com/versions/). The gh-pages gem also installs gems such as jekyll-sitemap which improves SEO. What you need to do is described  in [this blog post](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_publishing_github_pages.html).
 
 ### 2. Take the following steps to get Lanyon css and internal links working properly
 
