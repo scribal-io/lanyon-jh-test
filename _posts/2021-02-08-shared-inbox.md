@@ -3,6 +3,9 @@ layout: post
 title:  The Shared Inbox (Part 2)    
 ---
 
+TL;DR Here's how Front drives down the average number of incoming messages per employee per day.
+<!--excerpt-->
+
 In a recent post, I talked about the principal problem with email: there’s just too much of it.  The common theme around product work in this area deals with automated triage.  Take Microsoft Focused Inbox: it uses machine learning to drive high priority mail to your Focused tab so that you can concentrate on the most important messages.  Similarly, Google uses machine learning in gmail to eliminate hundreds of million spam messages a day.  Today’s ML technology brings very valuable benefits to the table. We can be very thankful for that.
 
 Don’t we wish it could end there?  The fact is, even after spam is filtered out, there remains much work for the user to do to avoid distraction, the feeling of being overwhelmed, and other side effects.  Consider a simple metric: the average number of emails per person per day.  Whatever it is, it is too many.
