@@ -4,6 +4,7 @@ title: Setting Up Your Business Website - Part 2
 ---
 
 [In the previous post in this set]({{ site.baseurl }}{% post_url 2021-02-03-WebsiteforBizpt1 %}), I discussed the considerations faced by business organizations needing to create or establish a web presence. I also examined, at a high level, how we at Scribal analyzed those considerations for our own business. In this post, I will walk you through what we actually decided and discuss the steps we took to implement the technology.
+<!--excerpt-->
 
 At this stage of our business's development, we required: 
 - a place to publish our analysis and views on various technological and business-related questions. 

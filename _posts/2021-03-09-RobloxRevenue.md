@@ -4,6 +4,7 @@ title:  Roblox & Revenue Recognition
 ---
 
 Parents, there's a good chance that you know a lot about [Roblox](https://corp.roblox.com/) by now.  A popular online gaming platform for kids, it is the thing that starts the family conversation around limits to screen time, the power of addiction, and the human need for fresh air and sunshine.   Many of us should thank Roblox for helping to open up those dialogues with our kids.  I know I do.
+<!--excerpt-->
 
 The fun is just beginning for adults, though.  Starting on March 10, public investors can enjoy Roblox by purchasing their common stock [RBLX](https://www.nyse.com/quote/XNYS:RBLX).  It is a big moment for the company, and they had a few bumps in the road in getting here.  Since one of them relates to the company's revenue recognition policies - a topic we care about at Scribal - we'll look at what happened and why the SEC required the company to amend their S-1 before allowing them to proceed.
 
