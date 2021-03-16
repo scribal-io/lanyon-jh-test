@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Us
+title: Contact Us (refactored)
 ---
 
 <form action="https://app.99inbound.com/api/e/hlCaY6-O" method="POST" target="_blank">
