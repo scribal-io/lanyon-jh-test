@@ -13,7 +13,6 @@ title: Contact Us
 <div id="mc_embed_signup">
 <form action="https://scribal.us1.list-manage.com/subscribe/post?u=9ada337d28af6fac07c93cd08&amp;id=191d05d47d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -30,7 +29,7 @@ title: Contact Us
 </div>
 <div class="mc-field-group">
 	<label for="mce-COMMENTS">Comments </label>
-	<input type="text" value="" name="COMMENTS" class="" id="mce-COMMENTS">
+	<input type="text" value="" name="COMMENTS" class="" style="width: 300px;" id="mce-COMMENTS">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
