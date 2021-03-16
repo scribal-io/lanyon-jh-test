@@ -3,7 +3,6 @@ layout: page
 title: Contact Us
 ---
 
-Contact Us Using this Form.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -15,7 +14,7 @@ Contact Us Using this Form.
 <div id="mc_embed_signup">
 <form action="https://scribal.us1.list-manage.com/subscribe/post?u=9ada337d28af6fac07c93cd08&amp;id=191d05d47d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Get in Touch</h2>
+	<h2>Contact Us</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
