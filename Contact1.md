@@ -29,7 +29,7 @@ title: Contact Us.
 </div>
 <div class="mc-field-group">
 	<label for="mce-COMMENTS">Comments </label>
-	<input type="text" value="" name="COMMENTS" class="" style="width: 300px;" id="mce-COMMENTS">
+	<input type="text" value="" name="COMMENTS" class="" style="width: 3000px;" id="mce-COMMENTS">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
