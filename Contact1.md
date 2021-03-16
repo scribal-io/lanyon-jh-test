@@ -29,11 +29,11 @@ title: Contact Us
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 <div class="mc-field-group size1of2" type="hidden">
-	<label for="mce-BIRTHDAY-month">Birthday </label>
+	<label for="mce-BIRTHDAY-month"></label>
 	<div class="datefield" type="hidden">
 		<span class="subfield monthfield"><input class="birthday " type="hidden" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="BIRTHDAY[month]" id="mce-BIRTHDAY-month"></span> / 
 		<span class="subfield dayfield"><input class="birthday " type="hidden" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="BIRTHDAY[day]" id="mce-BIRTHDAY-day"></span> 
-		<span class="small-meta nowrap">( mm / dd )</span>
+		<span class="small-meta nowrap"></span>
 	</div>
 </div>	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
