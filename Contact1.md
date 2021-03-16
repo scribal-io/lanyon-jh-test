@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Us
+title: Contact Us.
 ---
 
 <!-- Begin Mailchimp Signup Form -->
