@@ -31,7 +31,7 @@ title: Contact Us
 <div class="mc-field-group size1of2" type="hidden">
 	<label for="mce-BIRTHDAY-month"></label>
 	<div class="datefield" type="hidden">
-		<span class="subfield monthfield"><input class="birthday " type="hidden" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="BIRTHDAY[month]" id="mce-BIRTHDAY-month"></span> / 
+		<span class="subfield monthfield"><input class="birthday " type="hidden" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="BIRTHDAY[month]" id="mce-BIRTHDAY-month"></span> 
 		<span class="subfield dayfield"><input class="birthday " type="hidden" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="BIRTHDAY[day]" id="mce-BIRTHDAY-day"></span> 
 		<span class="small-meta nowrap"></span>
 	</div>
