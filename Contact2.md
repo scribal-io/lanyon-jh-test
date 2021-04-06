@@ -4,6 +4,11 @@ title: Contact (AWS Test)
 ---
 
 Contact Us
+<Style>
+.form-hidden {
+   display: none;
+}
+</style>
 
 <body>
   <div class="row">
