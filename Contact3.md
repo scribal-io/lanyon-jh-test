@@ -103,7 +103,7 @@ input[type=text]:hover {
   <input type="email" name="email" id="contact_message_phone_or_email" placeholder="enter your email" required><br/>
   <textarea name="message" id="contact_message_text" placeholder="tell us what's on your mind" required></textarea><br/>
   <input type="submit" value="Submit">
-  <div class="alert alert-danger form-hidden" type="text" id="contact-form-failed-to-submit" role="alert"> <strong>Failed to submit the form. Please, try again. </strong>
+  <div class="alert-danger form-hidden" type="text" id="contact-form-failed-to-submit" role="alert"> <strong>Failed to submit the form. Please, try again. </strong>
   </div>
  <div class="alert-success form-hidden" type="text" id="contact-form-was-submitted" role="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
