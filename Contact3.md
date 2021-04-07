@@ -61,7 +61,41 @@ input[type=text]:hover {
 }
 .form-hidden {
       display: none;
-      }
+}
+/* The alert-danger message box */
+.alert-danger {
+  padding: 20px;
+  color: white;
+  background-color: #f44336; /* Red */
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 15px;
+}
+
+/* The alert-success message box */
+.alert-success {
+  padding: 20px;
+  color: white;
+  background-color: #32A852; /* Green */
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 15px;
+}
+
+/* The close button */
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+  color: black;
+}
 </style>
 
 <form id="customer-contact-form" action="https://i1of1qng12.execute-api.us-east-1.amazonaws.com/dev/static-site-mailer" accept-charset="UTF-8" method="post" name="customer-contact-form">
@@ -69,15 +103,17 @@ input[type=text]:hover {
   <input type="email" name="email" id="contact_message_phone_or_email" placeholder="enter your email" required><br/>
   <textarea name="message" id="contact_message_text" placeholder="tell us what's on your mind" required></textarea><br/>
   <input type="submit" value="Submit">
-  <div class="alert alert-danger form-hidden" id="contact-form-failed-to-submit" role="alert"> <strong>Failed to submit the form. Please, try again. </strong>
+  <div class="alert alert-danger form-hidden" type="text" id="contact-form-failed-to-submit" role="alert"> <strong>Failed to submit the form. Please, try again. </strong>
   </div>
- <div class="alert alert-success form-hidden" id="contact-form-was-submitted" role="alert">
+ <div class="alert-success form-hidden" type="text" id="contact-form-was-submitted" role="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
  <strong>Thank you! We have received your message. </strong>
 </div>
 </form>
 
 
 <!--
+<div class="alert alert-success form-hidden" type="text" id="contact-form-was-submitted" role="alert">
 #4CAF50
 <button>Submit</button>
 
