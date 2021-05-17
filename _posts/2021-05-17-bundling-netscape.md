@@ -1,17 +1,15 @@
 ---
 layout: post
-title:  Bundling and Unbundling: A Single Forest, or a Thousand Cords of Wood?
-
+title:  Bundling and Unbundling: Why
 ---
 
-*Let's forget the technicalities about bundling and unbundling and consider them as high order choices to create business value* 
+*A brief quip at Netscape's 1995 IPO roadshow fortells the importance of these high order strategies in today's digital economy* 
 
 <!--excerpt--> 
 
-
 One moment in the lore of internet history came during the run-up to Netscape’s 1995 IPO.  Jim Barksdale and other executives participated in a roadshow to educate investors.  Going from city to city, country to country, they finally come to London, the very last stop.  Though exhausted, the team puts in a nice presentation.  The crowd is engaged.  Inquiries begin to flow from the audience.  Eventually, Barksdale says "I have time for one more question."  A man in the room speaks up: “How do you know that Microsoft isn’t just going to bundle a browser into their product?”
 
-Barksdale's reply was something between a joke and an aphorism.  “Well gentlemen," he said "I know of only two ways of making money.  Bundling and unbundling. I have an airplane to catch, so thank you very much.”  
+Barksdale's reply was something between a joke and an aphorism.  “Well gentlemen," he said "I know of only two ways of making money.  Bundling and unbundling. I have an airplane to catch, so...thank you very much.”  
 
 We hear of bundling a lot these days.  Sometimes the concept seems a bit mysterious or vague.  But all bundling means is *to combine separate things into one*.  Bundling becomes technical when we consider what these separate things are, whether they are truly distinct, and if so how they might be integrated together.  Let's forget about those details because they can cause us to lose the forrest for the trees.    
 
@@ -24,7 +22,7 @@ Then there is distinction making, ie unbundling.  This trend is equally as impor
 
 In enterprise software there exists both large suites and smaller, best of breed providers.  As software has moved to the cloud, we find new entrants succeeding with narrower focus in  better defined segments.  [CPQ](https://en.wikipedia.org/wiki/Configure,_price_and_quote) was once ho-hum bills of materials and configure-to-order features of ERP packages.  Now CPQ is a separate domain, an example of unbundling, even if it is (ironically) software intended to help you sell bundled products. 
 
-If only business success boiled down to a simple choice between x and y, right?  Still, Jim Barksdale’s quip - intended to escape a run-over meeting - turns out to be a useful insight.  Bundling and unbundling take many forms.  These are not mysterious ideas.  They are powerful, high order choices that businesses need to make.  The real devil lurks in the details, in the implementation.  In future posts I’ll get into a case or two, and see what there is to learn.  
+If only business success boiled down to a simple choice between x and y, right?  Still, Jim Barksdale’s quip - intended to escape a run-over meeting - turns out to be a useful insight.  Bundling and unbundling takes many forms, but none are mysterious.  They are powerful, high order choices that businesses find themselves making.  The real devil lurks in the details, in the implementation.  In future posts I’ll get into a case or two, and see what there is to learn.  
 
 
   
