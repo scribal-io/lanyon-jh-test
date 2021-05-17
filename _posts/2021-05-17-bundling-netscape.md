@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Bundling and Unbundling: Why
+title:  Bundling and Unbundling: Two Key Strategies
 ---
 
 *A brief quip at Netscape's 1995 IPO roadshow fortells the importance of these high order strategies in today's digital economy* 
