@@ -15,3 +15,5 @@ gem 'jekyll-relative-links'
 # gem "jekyll-paginate", "~> 1.1"
 
 # gem 'jekyll-sitemap' 
+
+gem "webrick", "~> 1.7"
