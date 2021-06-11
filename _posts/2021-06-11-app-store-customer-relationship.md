@@ -25,3 +25,5 @@ Apple's actions demonstrate that it sees the iOS platform as the primary deliver
 
 >It isn’t the App Store that has enabled all of the commerce on iOS — it’s the entire world of computing and modern society, created by a symbiotic ecosystem in which Apple played one part alongside many others. The world was already moving in this direction, and had Apple not played its part, someone else would’ve. The App Store is merely one platform’s forced distribution gateway, “facilitating” the commerce no more and no less than a web browser, an ISP or cellular carrier, a server-hosting company, or a credit-card processor.
 
+It will be fascinating to see which perspective Judge Gonzalez Rogers leans toward in her ruling expected in the coming months.
+
