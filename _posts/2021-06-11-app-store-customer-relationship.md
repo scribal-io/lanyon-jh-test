@@ -7,7 +7,7 @@ title: Subscriptions and the Customer Relationship in the iOS App Store
 
 <!--excerpt--> 
 
-Analysis of courtroom arguments in the Epic Games v. Apple case focused mainly on the fees of up to 30% taken by Apple from developers. Pricing power is one of the important indicators of Apple's platform, but another critical one is ownership of the relationship between an app developer and its customers.
+Analysis of courtroom arguments in the Epic Games v. Apple case focused mainly on the fees of up to 30% taken by Apple from developers. Pricing power is one characteristic of a monopoly, but another important factor influencing a company's ability to compete is ownership of the relationship with its customers.
 
 As Marco Arment, one of the best known indpendent app developers for the iOS platform, pointed out [in a recent blog post](https://marco.org/2021/06/03/developer-relations) -
 
