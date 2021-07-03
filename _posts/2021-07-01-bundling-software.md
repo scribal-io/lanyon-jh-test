@@ -7,7 +7,7 @@ title: Bundling Part 2 - Aggregation and Its Opposite
 
 <!--excerpt--> 
 
-I recently began a series of posts on bundling and [Roblox]({{ site.baseurl }}{% post_url 2021-03-09-RobloxRevenue %})[unbundling]{{ site.baseurl }}{% post_url 2021-05-17-bundling-netscape.md %}, taking the 1990s browser war as a reference point.  I’d like to continue that thread a little further to emphasize the choices companies make to gain competitive advantage.
+I recently began a series of posts on bundling and [Roblox]({{ site.baseurl }}{% post_url 2021-03-09-RobloxRevenue %}), taking the 1990s browser war as a reference point.  I’d like to continue that thread a little further to emphasize the choices companies make to gain competitive advantage.
 
 Bundling is about combining resources you can control in order to gain some form of competitive advantage.  Unbundling separates resources out.  There are numerous ways to do both of these things, some related to products, some not.  As a result It seems more precise to use the terms *aggregation* and *disaggregation* to describe what is actually going on.  The point is: putting together and taking apart.
 
