@@ -7,7 +7,7 @@ title: Bundling Part 2 - Aggregation and Its Opposite
 
 <!--excerpt--> 
 
-I recently began a series of posts on bundling and [Roblox]({{ site.baseurl }}{% post_url 2021-03-09-RobloxRevenue %}), taking the 1990s browser war as a reference point.  I’d like to continue that thread a little further to emphasize the choices companies make to gain competitive advantage.
+I recently began a series of posts on bundling and [unbundling]({{ site.baseurl }}{% post_url 2021-05-17-bundling-netscape %}), taking the 1990s browser war as a reference point.  I’d like to continue that thread a little further to emphasize the choices companies make to gain competitive advantage.
 
 Bundling is about combining resources you can control in order to gain some form of competitive advantage.  Unbundling separates resources out.  There are numerous ways to do both of these things, some related to products, some not.  As a result It seems more precise to use the terms *aggregation* and *disaggregation* to describe what is actually going on.  The point is: putting together and taking apart.
 
@@ -19,8 +19,8 @@ Contrary to this, disaggregation works to break company, product and feature uni
 
 I mentioned that company, product, and feature level are not the only kinds of aggregation.  Let’s add the important fourth term:  *ancillaries*.  A great advantage to combining business, product, and features is that enterprise customers are never just buying the product they think is the best.  They are buying longevity, trust, brand familiarity, the convenience of a one-stop-shop, service, the interoperability of key components with an existing stack.  Aggregators make profitable and entrenched businesses because they understand and have answers for these needs and concerns that transcend product.
 
-Disaggregators, if they are the software startups we often think of, do not have this fourth tool at their disposal, at least, not nearly as much.  They have a much harder time selling to those with non-product priorities driving their decisions.  And if you really think about it, this is why a software product startup needs not only have a better product than what is available today, they need one that is 10x better.  If they do, this process of pulling things apart is grafted back into the process of putting things together, typically through acquisition - see our note on [Roblox]({{ site.baseurl }}{% post_url 2021-03-09-RobloxRevenue %}). 
+Disaggregators, if they are the software startups we often think of, do not have this fourth tool at their disposal, at least, not nearly as much.  They have a much harder time selling to those with non-product priorities driving their decisions.  And if you really think about it, this is why a software product startup needs not only have a better product than what is available today, they need one that is 10x better.  If they do, this process of pulling things apart is grafted back into the process of putting things together, typically through acquisition - see our note on [Slack]({{ site.baseurl }}{% post_url 2020-12-07-salesforce-slack.md %}). 
 
 
-unbundling 2021-05-17-bundling-netscape.md
-Slack 2020-12-07-salesforce-slack.md
+ 
+ 
