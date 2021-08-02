@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weather-Climate, Data Points-Insight
+title: Our Recent "Heat Dome" and Climate Change
 ---
 
 *The recent heat dome in the Pacific Northwest illustrates the tenuous connection between lived experience and data-driven insight*
@@ -19,10 +19,10 @@ As always, Mass guides his readers through the data (in this case, from Boeing F
 - Sun - there was nearly full sunshine every day
 - Smoke and Air Quality - were very low/good compared to historical levels.
 
-Mass points out that over the past month the local media have written n about the recent heat event, smokey conditions in the eastern part of the state, and about the upcoming fall/winter season which locals here call “the big dark.”  But the press has not covered the "good" July weather. People remember anomalous events - particularly bad ones - but quite literally don’t notice when things are uneventful (or even “perfect”).
+Mass points out that over the past month the local media have written about the recent heat event, smokey conditions in the eastern part of the state, and about the upcoming fall/winter season which locals here call “the big dark.”  But the press has not covered the "good" July weather. People remember anomalous events - particularly bad ones - but quite literally don’t notice when things are uneventful (or even “perfect”).
 
 Mass's observations about summer 2021 expose a gap between the way that people experience events versus how they understand data. Experience leaves the most vivid imprint. People will be talking about the three heat-dome days for a long time: I know I won’t soon forget them. However, three scorching days is a tiny sample size. Consistent fair weather like what we experienced this month is something that a few  observant data collectors will note, but that most people will just take for granted. They probably won’t remember it in a month - particularly if the smoke does hit Seattle as it did last August. A month is still a pretty small sample size and in this case, the experience might be forgotten soon because it doesn't fit the narrative that most people (myself included) have internalized about climate change.
 
-Assessing  data points and reasoning about them in long-term context is difficult even for folks who understand statistics.  I have personally reviewed enough data to be fully convinced that climate change is underway. One easy-to-understand example is the analysis that Yasuyuki Aono, a Japanese academic, has done on the [date of the peak Cherry Blossom bloom in Kyoto from the year 821 up to the present](https://www.bbc.com/news/world-asia-56574142). My intuition also tells me that things are getting hotter and hotter, but I need to keep in mind that events like Seattle’s June “heat dome” play to my confirmation bias.
+Assessing  data points and reasoning about them in long-term context is difficult even for folks who understand statistics. I have personally reviewed enough data to be fully convinced that climate change is underway. One easy-to-understand example is the analysis that Yasuyuki Aono, a Japanese academic, has done on the [date of the peak Cherry Blossom bloom in Kyoto from the year 821 up to the present](https://www.bbc.com/news/world-asia-56574142). My intuition also tells me that things are getting hotter and hotter, but I need to keep in mind that events like Seattle’s June “heat dome” play to my confirmation bias.
 
 
