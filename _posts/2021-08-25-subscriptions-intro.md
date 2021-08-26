@@ -3,7 +3,7 @@ layout: post
 title:  The Rise of Subscription Commerce
 ---
 
-*With this post we begin a series of posts about the rising use of subscription-based models in today’s economy.* 
+*With this post we begin a series about subscription based businesses and the software technology needed to support them.* 
 
 <!--excerpt--> 
 
