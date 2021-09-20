@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Epic Games v. Apple - Judgement Day
+title:  Epic Games v. Apple - Judgment Day
 ---
 
 *The recently issued decision in the Epic Games v Apple case has proven to be something of a Rorschach test, but it does prefigure a loosening of the company’s grip on the iOS App Store.* 
@@ -19,4 +19,4 @@ Relying on California law, she issues an injunction which would allow app develo
 
 Combined with settlements that Apple announced recently with small US app developers and with regulators in Japan and South Korea, the net effect is a significant loosening up of Apple’s iOS commission structure. Courts and regulators in two countries (so far) have indicated that Apple is in their field of vision: something Apple will have to take into account as the App Store continues to evolve.
 
-Epic has already appealed its case and a number of prominent iOS developers have indicated they are not satisfied with the measures announced by Apple. Nevertheless, these changes amount to the opening offer in a negotiation between the world’s most valuable company and the developers (many of whom are big businesses in their own right).
+Epic has already appealed its case and a number of prominent iOS developers have indicated they are not satisfied with the measures announced by Apple. Nevertheless, these changes amount to the opening offer in a negotiation between the world’s most valuable company and the developer community.
