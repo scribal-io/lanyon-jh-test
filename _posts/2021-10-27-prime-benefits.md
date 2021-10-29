@@ -3,7 +3,7 @@ layout: post
 title:  Amazon Prime - How to Use Subscription Commerce to Build a Tech Giant
 ---
 
-* Amazon Prime is justly celebrated as a key to the tech giant's massive success, but commentary often omits the most basic thing about Prime - it's a subscription through and through.* 
+*Amazon Prime is justly celebrated as a key to the tech giant's massive success, but commentary often omits the most basic thing about Prime - it's a subscription through and through.* 
 
 <!--excerpt--> 
 
