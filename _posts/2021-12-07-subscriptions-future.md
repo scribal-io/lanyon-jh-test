@@ -7,7 +7,7 @@ title:  The Future of Subscriptions, Part Two
 
 <!--excerpt--> 
 
-In [Part One](2021-11-17-FBsubscriptions.md), we discussed the growing adoption of subscription-based products by companies monetized through ads.  Ad-driven social media in particular has shown itself poorly aligned with users and society as a whole. This has led to business risk, greater regulatory scrutiny, and  drives the search for new ways to monetize.    
+In [Part One]({{ site.baseurl }}{% post_url 2021-11-17-FBsubscriptions %}), we discussed the growing adoption of subscription-based products by companies monetized through ads.  Ad-driven social media in particular has shown itself poorly aligned with users and society as a whole. This has led to business risk, greater regulatory scrutiny, and  drives the search for new ways to monetize.    
 
 Even with this shift toward subscription-based revenues, ad monetization will maintain its centrality over the long term in areas where it makes the most sense: search, social media, various interactive experiences at internet scale.  Despite controversy, the ad model has proven itself.  It is embedded in our digital lives.  There's no going back.
 
