@@ -3,7 +3,7 @@ layout: post
 title:  The Year in Subscriptions, 2021
 ---
 
-*Four major 2021 trends in subscription commerce that we will continue to follow in 2022*
+*Four major 2021 trends in subscription commerce that we will continue to follow in 2022.*
 
 <!--excerpt--> 
 
