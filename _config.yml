@@ -3,7 +3,7 @@ title:               Scribal
 tagline:             'Revenue Growth Through Subscription Finance'
 description:         'Unlocking business value through transformational technologies'
 url:                 
-baseurl:             '/lanyon-jh-test/'
+baseurl:             'lanyon-jh-test/'
 paginate:            5
 permalink:           pretty
 excerpt_separator: "<!--excerpt-->"
