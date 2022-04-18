@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  Digital Media and Substack's Opinionaed View
+title:  Digital Media - Subscriptions and Advertising
 ---
 
-Digital news media is converging rapidly on the subscription model as the preferred form of monetization. A recent tier of subscription-only newsletter companies (Substack is the best known of these), traditional media companies like *The New York Times*, and even social media companies like Twitter, all offer paid subscriptions to consumers.  One question we ask ourselves is "are subscriptions and advertising mutually exclusive?" The answer, we discoverd is that they are not exclusive at all.
+Digital news media is converging rapidly on the subscription model as its preferred form of monetization. A recent tier of subscription-only newsletter companies (Substack is the best known of these), traditional media companies like *The New York Times*, and even social media companies like Twitter, all offer paid subscriptions to consumers. One question we ask ourselves is "are subscriptions and advertising mutually exclusive?" The answer, we discoverd is that they are not exclusive at all.
 
 Our exploration was inspired by a post entitled [*The Ideology of Substack*](https://every.to/divinations/substack-s-ideology) by Nathan Baschez, one of the movers behind the newsletter consortium, *Every*, and previously an early employee at Substack. In the post, Baschez observes that prior to launch, Substack's founders diagnosed two central problems of digital media: "Advertising...which rewards publishers for attracting attention" and "Engagement Algorithims" which promote virality based on emotions such as outrage.
 
-According to the post, Substack was shaped by the founders' hypothesized solutions to each problem: 1) Paid subscriptions replace advertising for monetization; and email inboxes replace algorithmically generated content feeds. I want to focus here on the two central problems and suggest that digital media can be situated, correspondingly, on two axes: an Axis of Monetization (with advertising on one side and subscriptions on the other)andan Axis of Discovery (algorithmic on one side and organic/curated on the other):
+According to the post, Substack was shaped by its founders' hypothesized solutions to each problem: 1) Paid subscriptions replace advertising for monetization; and email inboxes replace algorithmically generated content feeds. I want to focus here on these two "central problems" and suggest that digital media can be situated, correspondingly, on two axes: an Axis of Monetization (with advertising on one side and subscriptions on the other)and an Axis of Discovery (algorithmic on one side and organic/curated on the other):
 
-This is easier to draw than to explain in words, so here's how this coordinate system looks with several prominent contemporary media companies placed on it. 
+This is easier to draw than to explain in words, so here's how this coordinate system looks with several prominent contemporary media companies plotted on it. 
 
 ![Axes of Discovery and Monetization](/lanyon-jh-test/assets/images/digital-media-business-model.png)
 
@@ -23,9 +23,9 @@ As any subscriber who uses the Times apps or website knows, stories are pushed a
 
 For all of these reasons I have located the NYT on the upper right of the grid: heavily dependent on subscription revenue, but also on advertising. And probably because of the advertising, they are algorithmically promoting articles which generate the most clicks.
 
-Meta, parent company of Facebook and Instagram, invented many "surveillance capitalism" technogies. It famously depends on targeted advertising and the algorithmically-generated news feed. Accoordingly, its products are located on the lower right quadrant.  However, even Meta has been incorporating subscriptions into its commerce mix with the 2021 introduction of Creator Subscripitons which enable social media influencers to sell subscriptions to their followers (Meta, of course, takes a cut).
+Meta, parent company of Facebook and Instagram, invented many "surveillance capitalism" technologies. It famously depends on targeted advertising in its algorithmically-generated news feed. Accordingly, its products are located on the lower right quadrant.  However, even Meta has been incorporating subscriptions into its commerce mix with the 2021 introduction of Creator Subscripitons which enable social media influencers to sell subscriptions to their followers (Meta, of course, takes a cut).
 
-The takeaway here is that these days its rare for companies to be entirely dependent on either subscriptions or on advertising.  While many companies rely on algorithims to decide what content and advertising to show users, it's also somewhat reare for a company to be entirely dependen on them. Most companies, lacking the enormous resources of the NYT or Facebook rely on a mixture of algorithms, curation and old-fashioned publicity to promote discovery of their content.
+The takeaway here is that these days it is rare for companies to be entirely dependent on either subscriptions or on advertising.  While many companies rely on algorithims to decide what content and advertising to show users, it's also somewhat unusual for a company to be entirely dependent on them. Most companies, lacking the enormous resources of the NYT or Facebook rely on a mixture of algorithms, curation and old-fashioned publicity to promote discovery of their content.
 
 
 
